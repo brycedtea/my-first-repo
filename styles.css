@@ -34,3 +34,17 @@ span {
     margin: 1px;
   }
   
+  span {
+    border: 1px solid #333;
+    
+    padding: 10px 15px;
+  }
+  
+  #pics span,
+  #text span {
+    padding: 25px 30px;
+  }
+  
+  #text span {
+    background-color: white;
+  } */
